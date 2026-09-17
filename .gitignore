@@ -12,3 +12,4 @@ dags/__pycache__/
 .idea/
 .DS_Store
 Thumbs.db
+.claude
