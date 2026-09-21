@@ -141,9 +141,8 @@ def convert_quantity_to_int(df):
     return df
 
 def drop_duplicates(df):
-    df.drop_duplicates
 
-    return df
+    return df.drop_duplicates()
 
 def clean_data(df):
     df = fix_date_columns(df)
